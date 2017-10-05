@@ -18,7 +18,7 @@ General Instructions:
 
 4. Check for compatiability in firefox and chrome
 
-5. There are 9 bugs and 30 minutes.
+5. There are 9 bugs and 20 minutes.
 
 6. Call volunters after fixing all bugs.
 
