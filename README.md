@@ -12,12 +12,14 @@ General Instructions:
 	* Username in the prompt is : **mec**
 	* Password in the prompt is : **mec**
 
-2. Clone the git repo [link](https://www.google.co.in/)
+2. Clone the git repo [link](https://github.com/Excel-MEC/doctype.git)
 
-3. Check for compatiable in firefox and chrome
+3. Start with index.html
 
-4. There are 10 bugs
+4. Check for compatiability in firefox and chrome
 
-5. Call volunters after fixing all bugs.
+5. There are 9 bugs and 30 minutes.
 
-6. Happy Debugging :sunglasses: 
+6. Call volunters after fixing all bugs.
+
+7. Happy Debugging :sunglasses: 
